@@ -1,0 +1,7 @@
+This is a test file for our encryption tool.
+It contains some sample text that we'll encrypt and decrypt.
+
+The encryption tool uses AES-256 encryption, which is a strong encryption algorithm
+used by governments and security professionals worldwide.
+
+This file should be successfully encrypted and then decrypted back to its original form.
