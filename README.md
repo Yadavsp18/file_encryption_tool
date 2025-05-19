@@ -116,6 +116,9 @@ The File Encryption Tool represents a powerful yet accessible solution for data 
 
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/7840b81e-2619-40aa-af6a-6696c114ac13)
+
 ![Image](https://github.com/user-attachments/assets/bf968c57-ad96-4e64-9f1b-1d3c0e2e0334)
+
 ![Image](https://github.com/user-attachments/assets/fba4936d-c504-4225-b02f-0b54726feb39)
+
 ![Image](https://github.com/user-attachments/assets/950c1981-35a4-43cb-8363-71440734e76a)
