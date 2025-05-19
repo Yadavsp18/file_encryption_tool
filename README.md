@@ -114,4 +114,9 @@ The project has potential for several enhancements:
 
 The File Encryption Tool represents a powerful yet accessible solution for data protection needs. By combining strong cryptographic algorithms with a user-friendly interface, it makes advanced encryption technology available to everyone. Whether for personal privacy or business security, this tool provides a reliable method to keep sensitive information secure in an increasingly digital world.
 
-
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/eb9c56c7-1df1-4099-80ec-5e4a9f282217)
+![Image](https://github.com/user-attachments/assets/cbedaaa7-8959-46ce-a927-846f26ccf071)
+![Image](https://github.com/user-attachments/assets/c484408b-2b5a-431f-8d99-b61a48960a91)
+![Image](https://github.com/user-attachments/assets/4bcdd624-0a88-485e-975d-6412ad2b9663)
+![Image](https://github.com/user-attachments/assets/3978756c-5b7a-4a09-84d6-79329cca5932)
